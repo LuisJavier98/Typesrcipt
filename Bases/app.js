@@ -5,9 +5,9 @@ const hero = {
 };
 console.log(hero.age);
 const a = 10;
-let b = 10;
+let b = true;
 let c;
-b = 3.1415;
+b = false;
 function sayhello(msg) {
     console.log(msg);
 }

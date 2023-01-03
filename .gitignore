@@ -1,3 +1,5 @@
 app.ts.zip
 package-lock.json
 package.json
+*.json
+*.js
