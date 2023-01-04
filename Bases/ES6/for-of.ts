@@ -13,6 +13,7 @@
         name: 'cap america',
         weapon: 'escudo'
     }
+    let duncion=()=>{}
 
     const thor: Avenger = {
         name: 'Thor',
