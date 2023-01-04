@@ -1,7 +1,6 @@
 (() => {
 
     class Avenger {
-
         //private name: string;
         //private team: string;
         //public realName?: string;
@@ -17,7 +16,7 @@
         }
     }
 
-    const antman: Avenger = new Avenger('Antman', 'Capitan', 'scoot');
-    //console.log(antman)
+    const antman= new Avenger('Antman', 'Capitan', 'scoot');
+    console.log(antman.bio())
     //console.log(Avenger.getAvgAge())
 })()
